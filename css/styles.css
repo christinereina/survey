@@ -1,3 +1,13 @@
 body {
     padding: 40px;
+    background-image: linear-gradient(to bottom right, red, orange, yellow, green, blue, purple);
+    height: 100vh;
+}
+
+#output {
+    display: none;
+}
+
+.btn {
+    border: 1px solid gray;
 }
